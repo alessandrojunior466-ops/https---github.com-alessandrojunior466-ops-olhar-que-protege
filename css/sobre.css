@@ -46,8 +46,15 @@ nav a:hover {
 }
 
 .rentagulo {
-    margin: 0;
-    width: 1920px;
-    height: 400px;
-    background: #A2AADB;
+  margin: 0;
+  width: 1920px;
+  height: 400px;
+  background: #A2AADB;
+}
+
+.meninaChora {
+  width: 670px;
+  height: 600px;
+  margin: 60px;
+  margin-top: -300px;
 }
