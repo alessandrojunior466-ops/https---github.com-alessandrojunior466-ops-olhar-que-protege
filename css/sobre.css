@@ -53,8 +53,83 @@ nav a:hover {
 }
 
 .meninaChora {
-  width: 670px;
-  height: 600px;
-  margin: 60px;
+  width: 570px;
+  height: 500px;
+  margin: 120px;
   margin-top: -300px;
+  border: #fff solid 06px;
+  border-radius: 20px;
+  box-shadow: 0px 05px 60px #000;
+
+}
+
+.textoInfo {
+  font-size: 25px;
+  margin: 50px;
+  margin-top: -700px;
+  width: 800px;
+  text-align: start;
+  float: inline-end;
+  color: #fff;
+}
+
+.textoInfo h1 {
+  text-align: center;
+  font-size: 45px;
+}
+
+.rentagulo2 {
+  margin: 0;
+  margin-top: 900px;
+  width: 1920px;
+  height: 460px;
+  background: #A2AADB;
+}
+
+.FaCircle {
+  width: 700px;
+  height: 700px;
+  margin-top: -780px;
+  margin-left: 1150px;
+}
+
+.Textin2 {
+  color: #fff;
+  font-size: 22px;
+  text-align: start;
+  width: 920px;
+  margin-top: -460px;
+  margin-left: 60px;
+}
+
+.Textin2 h1 {
+  text-align: center;
+}
+
+.desaparecer {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.desaparecer.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.logo {
+  margin-left: 680px;
+  margin-top: -100px;
+}
+
+.subtitu {
+  font-size: 30px;
+  color: #fff;
+  margin-left: 645px;
+  margin-top: -23px;
+  box-sizing: 0px 20px 10px #000;
+}
+
+.espaco {
+  height: 80px;
 }
