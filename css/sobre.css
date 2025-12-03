@@ -145,9 +145,10 @@ nav a:hover {
 
 .SobreNos{
   color: #fff;
-  font-size: 20px;
+  font-size: 26px;
   text-align: start;
   width: 1000px;
+  margin-left: 40px;
 }
 
 .SobreNos h2{

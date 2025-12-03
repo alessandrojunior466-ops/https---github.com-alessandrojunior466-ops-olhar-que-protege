@@ -245,3 +245,7 @@ nav a:hover {
     z-index: 3;
     margin-top: 500px;
 }
+
+.fa-regular fa-house{
+  color: #fff;
+}
